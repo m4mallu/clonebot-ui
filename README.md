@@ -1,2 +1,1 @@
-# clonebot-ui
-Redirecting link to the original and latest clonebot repository. 
+# Click [HERE](https://github.com/m4mallu/clonebot) 
